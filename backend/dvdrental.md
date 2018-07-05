@@ -39,8 +39,9 @@ This project is based around database management,the ability to on board new mod
 21. Find all the film categories in which there are between 55 and 65 films. Return the names of these categories and the number of films per category, sorted by the number of films.
 22. In how many film categories is the average difference between the film replacement cost and the rental rate larger than 17?
 
-####Write a query that answers the question
-####Write an explanation for the query in English
+#### Write a query that answers the question
+
+#### Write an explanation for the query in English
 
 
 
