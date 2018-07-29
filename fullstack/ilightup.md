@@ -14,7 +14,9 @@ song should appear.Viewing a song should autoplay it and show its lyrics
 5. User management
 
 ### Sample idea
-![]()
+![](dash.png)
+![](addsong.png)
+![](lyrics.png)
 ## Requirements
 1. Improved Ui/Ux
 2. User management each user should have own saved videos
