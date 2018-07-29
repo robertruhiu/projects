@@ -1,8 +1,9 @@
-Chatfeels
+Feels chat
 ======================
 
 ## Project brief
-A community based chat app that uses web sockets to create real time interaction with users.
+A community based chat app that uses web sockets to 
+create real time interaction with users.
 
 ## Concepts tested
 1. Client rendering
@@ -10,8 +11,13 @@ A community based chat app that uses web sockets to create real time interaction
 3. Api endpoints
 
 ### Sample idea
-![]()
+![](register.png)
+![](main.png)
 ## Requirements
+1. Improved Ui replicate from idea above
+2. User registration for the app
+3. use socket io to create the communication stream
+4. Client side to render all data
 
 
 

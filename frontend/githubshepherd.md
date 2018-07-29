@@ -1,14 +1,19 @@
-Form shepherd
+Github shepherd
 ======================
 
 ## Project brief
-A client from a tax group would like you to implement a gamified guiding tool for users
-as they fill their really complex forms.This will enable more turn overs of 
-completed forms.
+A client from github would like you to implement a gamified guiding tool for first time users
+This will enable more user uptake.
 
 ## Concepts tested
 1. User tours
 3. Ux process
+###Sample idea
+![](https://cms-assets.tutsplus.com/uploads/users/317/posts/28509/image/featured.jpg)
+## Requirements
+1. Replicate the github home page(user logged in)
+2. Use Shepherd js to orient the user
+3. All tips should contain an easy to understand for the user
 
 
 

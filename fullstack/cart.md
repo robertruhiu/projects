@@ -1,4 +1,4 @@
-Full stack Project
+Cart manager
 ======================
 
 ## Project brief
@@ -9,16 +9,23 @@ till they check out.All data should be stored after checkout.
 ## Concepts tested
 1. Session carts 
 2. Database
-3. Payment Api
+3. Api creation
 
 ### Sample idea
 ![](https://cdn.dribbble.com/users/699467/screenshots/2670191/800.png)
+![](catalog.png)
+![](checkout.png)
+![](orders.png)
 ## Requirements
 1. Improved UI/UX
-2. Product catalog
-3. Render user orders after checkout
-4. Session cart should only hold one item at a time
-5. Implement payment using platform of choice during checkout
+2. Use the wireframe above
+3. Product catalog
+4. Render catalog from database under model products
+5. Create database models(orders it should contain item purchased)
+5. Checkout page showing product information.Save data to orders
+6. Render user orders after checkout
+
+
 
 ## Coding Standards
 When working on the project use consistent coding style.Stylelint, ESLint (see [Code Quality](https://www.getchisel.co/docs/development/code-quality/)), [ITCSS](https://www.getchisel.co/docs/development/itcss/), etc.

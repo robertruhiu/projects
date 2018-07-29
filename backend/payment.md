@@ -1,12 +1,12 @@
-Backend-end Test Project
+Simple stripe Project
 ======================
 
 ## Project brief
-Create a basic checkout process of an online store.It encompasses connecting to a payment
-api and storing all payed orders in a database
+Create a basic checkout process of an online store.It encompasses connecting to stripe api and storing 
+all payed orders in a database
 
 ## Concepts tested
-1. Payment Apis
+1. Payment Apis(stripe)
 2. Databases
 
 ### Sample idea

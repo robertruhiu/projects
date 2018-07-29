@@ -11,14 +11,18 @@ identify which food types clientele like
 3. Api endpoints
 
 ### Sample idea
-![]()
+![](https://don16obqbay2c.cloudfront.net/wp-content/uploads/Black-devices_Food-1507811327.png)
+![](list.png)
+![](rating.png)
+![](dashboard.png)
 ## Requirements
 1. Improved UI/UX
-2. Food menu to choose from
-3. Feedback input of food chosen use stars or rate
-4. A pop message thanking client for rating and redirection to food menu
-4. Data should be relayed to admin dashboard
-5. Admin dashboard showing food and their rating
+2. Replicate wireframe above
+3. Food menu to choose from
+4. Feedback input of food chosen use stars or rate
+5. A pop message thanking client for rating and redirection to food menu
+6. Data should be relayed to admin dashboard
+7. Admin dashboard showing food and their rating
 
 
 ## Coding Standards
